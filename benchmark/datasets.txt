@@ -1,2 +1,2 @@
-mscoco_captions
-imagenetv2
+flickr8k
+flickr30k
